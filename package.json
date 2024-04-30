@@ -5,6 +5,9 @@
   "repository": "https://github.com/cuunoong/doku.git",
   "author": "Arif Iskandar <arif19iskandar@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "npx cypress open"
+  },
   "devDependencies": {
     "cypress": "^13.8.1"
   }

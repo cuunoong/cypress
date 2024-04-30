@@ -6,7 +6,7 @@
   "author": "Arif Iskandar <arif19iskandar@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "npx cypress run"
+    "start": "npx cypress run --record --key 3652f791-c0d4-4ad1-aad2-11b4658049fd"
   },
   "devDependencies": {
     "cypress": "^13.8.1"

@@ -1,0 +1,11 @@
+{
+  "name": "doku",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cuunoong/doku.git",
+  "author": "Arif Iskandar <arif19iskandar@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.8.1"
+  }
+}
